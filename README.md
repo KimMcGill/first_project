@@ -4,5 +4,5 @@
 This is my first project.Are you OK?
 
 ## Author
-*Bao Minghan
-*Duizhang
+* Bao Minghan
+* Duizhang
